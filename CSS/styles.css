@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: aqua;
+  }
+  h2 {
+    text-align: center;
+  }
+  .beautiful-menu {
+    background-color: #333;
+  }
+  
+  .beautiful-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .beautiful-menu li {
+    float: left;
+  }
+  
+  .beautiful-menu a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .beautiful-menu a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
